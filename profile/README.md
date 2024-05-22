@@ -2,6 +2,8 @@
 
 # MeetYourFan
 Meetyourfan is a social media platform to engage creators and fans.
+
+All Right Reserved [MeetyourFan](https://www.meetyourfan.com) ® 12/09/2019 
 <!--
 
 **Here are some ideas to get you started:**
