@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# ![Logo](/assets/images/logos/MeetYourFan_Loghi-03.png | width=100) MeetYourFan
+# <img src="/assets/images/logos/MeetYourFan_Loghi-03.png" width="50"/> MeetYourFan
 Meetyourfan is a social media platform to engage creators and fans.
 
 All Right Reserved [MeetyourFan](https://www.meetyourfan.com) ® 12/09/2019 
